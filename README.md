@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitkumar88&show_icons=true&theme=radical" alt="Lalitkumar's github stats" /> </td>
-        <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumar88&layout=compact&theme=radical" alt="Lalitkumar" /> </td>
+    
     </tr>
 </table>
 
