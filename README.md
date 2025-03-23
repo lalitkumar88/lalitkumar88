@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 👀 I’m interested in Competitive Programming and Android Development.
+- 👀 I’m interested in Competitive Programming, Web Development, Android Development (and its not all).
 
 - 📫 How to reach me : *lalitkumar892001@gmail.com*
 
