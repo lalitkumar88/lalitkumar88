@@ -36,23 +36,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<br>
-<br>
-    
-<table>
-    <tr>
-        <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitkumar88&show_icons=true&theme=radical" alt="Lalitkumar's github stats" /> </td>
-    
-    </tr>
-</table>
 
-
-<table>
-  <tr>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar88&theme=radical" />
-</td>
-   
-  </tr>
-</table>
 
 
