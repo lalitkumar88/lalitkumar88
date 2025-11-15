@@ -29,13 +29,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<style>
-  .tool-icon {
-    height: 50px;
-    width: 50px;
-    object-fit: contain;
-  }
-</style>
+
 
 
 <div>
